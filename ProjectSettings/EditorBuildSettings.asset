@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/_Octoblind/Scenes/BuildScenes/MM_Splash.unity
+    guid: 86e875d1258c23247b4ed4918ba515ee
+  - enabled: 1
+    path: Assets/_Octoblind/Scenes/BuildScenes/MM_MainMenu.unity
+    guid: 7487c3469b94e9f40a0666a19fca91ae
   m_configObjects: {}
