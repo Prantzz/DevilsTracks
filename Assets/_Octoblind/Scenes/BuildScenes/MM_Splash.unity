@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 258372066}
   - component: {fileID: 258372065}
+  - component: {fileID: 258372067}
   m_Layer: 0
   m_Name: GameGlobeData
   m_TagString: Untagged
@@ -166,6 +167,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &258372067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258372064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5420cb3c8952e1f42ad19f0598b384fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioInstancePrefab: {fileID: 7242938262875117914, guid: 189a3c407a1e1f943b2d813724d2d1b8, type: 3}
+  Ambients:
+  - {fileID: 8300000, guid: c6abb73bda7eaab418294de6caa10bde, type: 3}
+  AudioGroupes:
+  - Name: Birds
+    Type: 0
+    Sounds:
+    - {fileID: 8300000, guid: 627744d231c01b249968de63795b044c, type: 3}
 --- !u!1 &587924216
 GameObject:
   m_ObjectHideFlags: 0

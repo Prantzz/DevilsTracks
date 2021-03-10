@@ -66,6 +66,9 @@
     <Compile Include="Assets\Jogar.cs" />
     <Compile Include="Assets\_Octoblind\Scripts\CameraController.cs" />
     <Compile Include="Assets\_Octoblind\Scripts\Unity\SimpleCameraController.cs" />
+    <Compile Include="Assets\_Octoblind\Scripts\SoundsScripts\AudioManager.cs" />
+    <Compile Include="Assets\_Octoblind\Scripts\SoundsScripts\AudioInstanceComponent.cs" />
+    <Compile Include="Assets\_Octoblind\Scripts\SoundsScripts\AudioGroup.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\_Octoblind\Artes\Fontes\dustismo_roman\license.txt" />

@@ -18,7 +18,6 @@ public class PauseHandler : MonoBehaviour
         GameCon.OnGameResumed += GameCon_OnGameResumed;
         GameCon.OnEscPressed += GameCon_OnEscPressed;
     }
-
     private void GameCon_OnGameResumed(object sender, System.EventArgs e)
     {
         Time.timeScale = 1f;
