@@ -1,204 +1,872 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.804; Version 2009; 64bit' Language: 'en' Physical Memory: 16198 MB
+OS: 'Windows 10 Home; OS build 19042.804; Version 2009; 64bit' Language: 'en' Physical Memory: 32694 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-D:\Unity\Editors\2020.2.6f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Projetos Pessoais/Faculdade/Inter5/PROJETO/DevilsTracks
+C:/Users/Sadol/Documents/DevilsTracks
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58632
-Successfully changed project path to: D:/Projetos Pessoais/Faculdade/Inter5/PROJETO/DevilsTracks
-D:/Projetos Pessoais/Faculdade/Inter5/PROJETO/DevilsTracks
+56829
+Successfully changed project path to: C:/Users/Sadol/Documents/DevilsTracks
+C:/Users/Sadol/Documents/DevilsTracks
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 65.17 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 45.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.6f1 (8a2143876886)
-[Subsystems] Discovering subsystems at path D:/Unity/Editors/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Projetos Pessoais/Faculdade/Inter5/PROJETO/DevilsTracks/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Sadol/Documents/DevilsTracks/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
     Vendor:   
-    VRAM:     6052 MB
-    Driver:   27.21.14.6140
+    VRAM:     8043 MB
+    Driver:   27.21.14.6172
 Initialize mono
-Mono path[0] = 'D:/Unity/Editors/2020.2.6f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Unity/Editors/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/Unity/Editors/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56420
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Unity/Editors/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001505 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001601 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 61.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 56.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.060 seconds
+- Completed reload, in  0.801 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001782 seconds.
+Registered in 0.001104 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 70.33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 42.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.224 seconds
+- Completed reload, in  0.753 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.40 seconds
-Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2420 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.2 MB.
-System memory in use after: 130.2 MB.
+System memory in use before: 131.3 MB.
+System memory in use after: 130.3 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2875.
-Total: 2.858500 ms (FindLiveObjects: 0.266200 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.708500 ms  DeleteObjects: 0.773500 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2876.
+Total: 2.601400 ms (FindLiveObjects: 0.390400 ms CreateObjectMapping: 0.072600 ms MarkObjects: 1.559000 ms  DeleteObjects: 0.578500 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/New Terrain.asset
   artifactKey: Guid(f564abaf27660154a897daae707e9648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain.asset using Guid(f564abaf27660154a897daae707e9648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54545640bc05773452d95c4d73e7218f') in 0.367969 seconds
-  Import took 0.380670 seconds .
+Start importing Assets/New Terrain.asset using Guid(f564abaf27660154a897daae707e9648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490e61d0bde808ce4282687ad224e1a5') in 0.034955 seconds
+  Import took 0.039030 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000274 seconds.
+  Time since last request: 0.000143 seconds.
   path: Assets/Tree.prefab
   artifactKey: Guid(35b14772acfd5054cadb7dde273262d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tree.prefab using Guid(35b14772acfd5054cadb7dde273262d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541dfb0759703f80b3a4510fb6e03693') in 0.351082 seconds
-  Import took 0.356997 seconds .
+Start importing Assets/Tree.prefab using Guid(35b14772acfd5054cadb7dde273262d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef2a984340f9fb10c96d9f66827d40d') in 0.198487 seconds
+  Import took 0.201473 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000160 seconds.
+  Time since last request: 0.000119 seconds.
   path: Assets/Readme.asset
   artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f058cc4b09de2d41b5620f8d110ef2a9') in 0.007290 seconds
-  Import took 0.011540 seconds .
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8535978e7351306423906c2aa705cdd7') in 0.005410 seconds
+  Import took 0.008232 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 46.371420 seconds.
-  path: Assets/_Octoblind/Scenes/MM_MainMenu/MainMenu Profile.asset
-  artifactKey: Guid(f6100b30196e3fb43a9dd0a0637230c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/MM_MainMenu/MainMenu Profile.asset using Guid(f6100b30196e3fb43a9dd0a0637230c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0492b53caa222aec15d3835b21a4ad8d') in 0.011837 seconds
-  Import took 0.017373 seconds .
+  Time since last request: 14.061108 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/321583__hitmount__walk.wav
+  artifactKey: Guid(c2ae60dc99e090843a1df2f70179a4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/321583__hitmount__walk.wav using Guid(c2ae60dc99e090843a1df2f70179a4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77899a38d795b848ee0d1d8d4bc16ae2') in 0.038927 seconds
+  Import took 0.042634 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.778887 seconds.
-  path: Assets/_Octoblind/Scenes/SampleScene.unity
-  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee6c1344ad26c5082780c2d9594a8d9') in 0.007882 seconds
-  Import took 0.013722 seconds .
+  Time since last request: 0.000148 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/553238__nachtmahrtv__walking-through-puddle.wav
+  artifactKey: Guid(55655427121995b4fa832bb06c3a4b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/553238__nachtmahrtv__walking-through-puddle.wav using Guid(55655427121995b4fa832bb06c3a4b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d7a2615dd6d307ab2421f61e0c8dba') in 0.013180 seconds
+  Import took 0.016916 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.005760 seconds.
-  path: Assets/_Octoblind/Scenes/SampleScene.unity
-  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee6c1344ad26c5082780c2d9594a8d9') in 0.004847 seconds
-  Import took 0.011493 seconds .
+  Time since last request: 0.000180 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/334218__sethroph__clothes-rustling-2.wav
+  artifactKey: Guid(68b6414e02c54e54a9f52a681ce6b1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/334218__sethroph__clothes-rustling-2.wav using Guid(68b6414e02c54e54a9f52a681ce6b1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e82f0f32495c6dca1a0f26cd9ea1b4f') in 0.013010 seconds
+  Import took 0.016497 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 325.718240 seconds.
-  path: Assets/_Octoblind/Scenes/MM_MainMenu
-  artifactKey: Guid(b3bf330ad878a8849a361c8b1245e167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/MM_MainMenu using Guid(b3bf330ad878a8849a361c8b1245e167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13edb330d6e06b1c9ea77a6752fa1de1') in 0.010163 seconds
-  Import took 0.016508 seconds .
+  Time since last request: 0.000150 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/421791__markbolden__walking-through-leaves.wav
+  artifactKey: Guid(78c38d19faa08324abb7402ca523ce1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/421791__markbolden__walking-through-leaves.wav using Guid(78c38d19faa08324abb7402ca523ce1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3eb2f6ae8e715fc5bb8bfa630b18a72') in 0.014128 seconds
+  Import took 0.017017 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.360791 seconds.
-  path: Assets/_Octoblind/Scenes/SampleScene
-  artifactKey: Guid(7d184e5a6dd17df44b784ef129686fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/SampleScene using Guid(7d184e5a6dd17df44b784ef129686fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c452efc16d1518588256534448e1ada3') in 0.011715 seconds
-  Import took 0.019496 seconds .
+  Time since last request: 0.000178 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/334218__sethroph__clothes-rustling-2.wav
+  artifactKey: Guid(68b6414e02c54e54a9f52a681ce6b1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/334218__sethroph__clothes-rustling-2.wav using Guid(68b6414e02c54e54a9f52a681ce6b1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e82f0f32495c6dca1a0f26cd9ea1b4f') in 0.006934 seconds
+  Import took 0.009847 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.100637 seconds.
+  Time since last request: 0.000150 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/421791__markbolden__walking-through-leaves.wav
+  artifactKey: Guid(78c38d19faa08324abb7402ca523ce1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/421791__markbolden__walking-through-leaves.wav using Guid(78c38d19faa08324abb7402ca523ce1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3eb2f6ae8e715fc5bb8bfa630b18a72') in 0.006105 seconds
+  Import took 0.009163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/AndandoNew.ogg
+  artifactKey: Guid(ac1212119ca9f614f905d264fb7a3d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/AndandoNew.ogg using Guid(ac1212119ca9f614f905d264fb7a3d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d887384137f8e7703f0764d1f5183f9') in 0.015247 seconds
+  Import took 0.018374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/Andando1.ogg
+  artifactKey: Guid(25aedfe4d0077ff4e8d5a083fac14013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/Andando1.ogg using Guid(25aedfe4d0077ff4e8d5a083fac14013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5aff94eb97708f038fa37ba0d249a4') in 0.012033 seconds
+  Import took 0.014945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/321583__hitmount__walk.wav
+  artifactKey: Guid(c2ae60dc99e090843a1df2f70179a4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/321583__hitmount__walk.wav using Guid(c2ae60dc99e090843a1df2f70179a4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77899a38d795b848ee0d1d8d4bc16ae2') in 0.006842 seconds
+  Import took 0.009851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/_Octoblind/Sounds/SFX/Andando/553241__nachtmahrtv__wet-footsteps.wav
+  artifactKey: Guid(63e0d9145f1402a4fa04a59730fdc99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/SFX/Andando/553241__nachtmahrtv__wet-footsteps.wav using Guid(63e0d9145f1402a4fa04a59730fdc99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3771569b84467edddebacf14b58da20') in 0.014070 seconds
+  Import took 0.017455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.005612 seconds.
   path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
   artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225a2ba64c601de43c37c53e63e1cc4a') in 0.013045 seconds
-  Import took 0.022640 seconds .
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15fdfd9c1dce18a321e2c564f0470ee') in 0.008682 seconds
+  Import took 0.011938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6eff2e1f21c68e0f6a58ffe70fd284') in 0.005276 seconds
+  Import took 0.008294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.433407 seconds.
+  path: Assets/_Octoblind/Scenes/MM_MainMenu/MainMenu Profile.asset
+  artifactKey: Guid(f6100b30196e3fb43a9dd0a0637230c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/MM_MainMenu/MainMenu Profile.asset using Guid(f6100b30196e3fb43a9dd0a0637230c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c10b089b25f70fdd36c6c298200516') in 0.007899 seconds
+  Import took 0.011485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.745946 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b801e852c3ab0a655d669a5dc610f42e') in 0.005765 seconds
+  Import took 0.009142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002463 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b801e852c3ab0a655d669a5dc610f42e') in 0.002526 seconds
+  Import took 0.005885 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003492 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.3 MB.
+System memory in use after: 133.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2971.
+Total: 7.541900 ms (FindLiveObjects: 0.394700 ms CreateObjectMapping: 0.071400 ms MarkObjects: 6.451100 ms  DeleteObjects: 0.622600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.147116 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7095bb0d0e93e0124c7e4bc0773eed16') in 0.045186 seconds
+  Import took 0.049557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.287796 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564884d8392d0c2a6fee1f7907377110') in 0.008177 seconds
+  Import took 0.014125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.670216 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000bcdddc4be7d279bd570292271f288') in 0.011580 seconds
+  Import took 0.017311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.270983 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38a83aaf5f96d3d5d8c1b111b223379') in 0.008752 seconds
+  Import took 0.014219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.566121 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ceb600617e0db0862f877ec6ac1dd00') in 0.007628 seconds
+  Import took 0.012386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.577101 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa523cce71e843bf83ea7553f46cbe0') in 0.032030 seconds
+  Import took 0.036762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.602593 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282e7b1344e92d93fc4d2a4f267596e8') in 0.012338 seconds
+  Import took 0.017353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 403.471634 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08044a177351163d782e4e440f0cfe8') in 0.006895 seconds
+  Import took 0.012011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000830 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a855d986e563f5d017e0cc82cfbbf7a') in 0.005702 seconds
+  Import took 0.011182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.999738 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20c56c6e1d59b70af2b0b7ace50ba6b') in 0.029123 seconds
+  Import took 0.033581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.787027 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20f76af7d19e53e3bf8f4bd0c97d5094') in 0.006210 seconds
+  Import took 0.011019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.523127 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a4932648e917f15618442a13716905') in 0.003541 seconds
+  Import took 0.007439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.494474 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02157721333c3085ac9a1b587d56f6d7') in 0.002866 seconds
+  Import took 0.006386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.999598 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24441a424845206b75a20cfff8599157') in 0.005527 seconds
+  Import took 0.010048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.802214 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c870588161a04c10e0964dd3a0fefc') in 0.006727 seconds
+  Import took 0.011610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.298388 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc11f4ccd86d00b62012cae0e45b006a') in 0.005955 seconds
+  Import took 0.010714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.402797 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d850fa227c7fc41649c2151e65567e4') in 0.006298 seconds
+  Import took 0.010679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.273614 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773ff289faa606b02e758e0b63fa130e') in 0.006973 seconds
+  Import took 0.011644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.299229 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda85633124b55c67119b68581fcc8e6') in 0.005356 seconds
+  Import took 0.010089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.210666 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab015a1e9371d36d9db651202de92e45') in 0.006090 seconds
+  Import took 0.011374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa547ef9c2a0244cca0e4d8f1bfbd5e') in 0.006136 seconds
+  Import took 0.009988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.049853 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
+  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e54bc7a514f26e25a0058b976c51d0') in 0.004973 seconds
+  Import took 0.009749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 639.043030 seconds.
+  path: Assets/_Octoblind/Scenes/BuildScenes
+  artifactKey: Guid(a2519d11b1ff9984fa6fd0f4fd9b89da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/BuildScenes using Guid(a2519d11b1ff9984fa6fd0f4fd9b89da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0284fb93c73bf457e1de2eded31e6284') in 0.006293 seconds
+  Import took 0.009986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/_Octoblind/Scenes/BuildScenes
+  artifactKey: Guid(a2519d11b1ff9984fa6fd0f4fd9b89da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/BuildScenes using Guid(a2519d11b1ff9984fa6fd0f4fd9b89da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0284fb93c73bf457e1de2eded31e6284') in 0.002422 seconds
+  Import took 0.005373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.311312 seconds.
+  path: Assets/_Octoblind/Scenes/BuildScenes/MM_RainForest.unity
+  artifactKey: Guid(904df15788b7b624684530e0daaa085f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/BuildScenes/MM_RainForest.unity using Guid(904df15788b7b624684530e0daaa085f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee5626005f2416b1d0189a7ff40acbb') in 0.009187 seconds
+  Import took 0.015260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.853218 seconds.
+  path: Assets/_Octoblind/Scenes/BuildScenes/MM_Splash.unity
+  artifactKey: Guid(86e875d1258c23247b4ed4918ba515ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/BuildScenes/MM_Splash.unity using Guid(86e875d1258c23247b4ed4918ba515ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df06f108861195dbce259026d90361f') in 0.007019 seconds
+  Import took 0.010394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.137726 seconds.
+  path: Assets/_Octoblind/Artes/Modelos
+  artifactKey: Guid(95ab88cf7a6aae041ac4eebc7a688d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos using Guid(95ab88cf7a6aae041ac4eebc7a688d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb2f98b988f3fe0916b7ba32e9bac4e') in 0.045040 seconds
+  Import took 0.048505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011850 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/acaidamata.fbx
+  artifactKey: Guid(3df79bdd599fc5e4bb2795c9310cf672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/acaidamata.fbx using Guid(3df79bdd599fc5e4bb2795c9310cf672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0eefcde1854d979931f47ebdd2bc27') in 0.200777 seconds
+  Import took 0.204295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/bacabinha.fbx
+  artifactKey: Guid(33dd30e5db00eda4da230135c69ecf78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/bacabinha.fbx using Guid(33dd30e5db00eda4da230135c69ecf78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4942b1e7253d8a306d25f940640ab691') in 0.023331 seconds
+  Import took 0.026382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/martelo.fbx
+  artifactKey: Guid(03619da356e1ca84f9308b5de50f5221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/martelo.fbx using Guid(03619da356e1ca84f9308b5de50f5221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0527266945d37d14e7e97af9e23a6958') in 0.028633 seconds
+  Import took 0.031639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/bussula.fbx
+  artifactKey: Guid(8129d35bf2d179941ad778e1729b2a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/bussula.fbx using Guid(8129d35bf2d179941ad778e1729b2a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8797c567e223bf4c98258f43993207') in 0.029451 seconds
+  Import took 0.032888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/ingaquina.fbx
+  artifactKey: Guid(7a0354628ff63224187944e7366e7ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/ingaquina.fbx using Guid(7a0354628ff63224187944e7366e7ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e00d17d4932c3bd1701fd48b123bcd') in 0.026185 seconds
+  Import took 0.030091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/arcoeflecha.fbx
+  artifactKey: Guid(ad82aad6cae0aff449f0e3e43093a386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/arcoeflecha.fbx using Guid(ad82aad6cae0aff449f0e3e43093a386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd5bd801a1da69d376066f8dbcf5ea8') in 0.032041 seconds
+  Import took 0.035306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/paixiuba.fbx
+  artifactKey: Guid(1b7aeb3ee590a93439484544c5705e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/paixiuba.fbx using Guid(1b7aeb3ee590a93439484544c5705e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9368209c19d86258f18f97e44a1f01') in 0.022526 seconds
+  Import took 0.025857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/casaprincipal.fbx
+  artifactKey: Guid(19796490f3c3302418d53d6ba9b9aa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/casaprincipal.fbx using Guid(19796490f3c3302418d53d6ba9b9aa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06bbeade22f520230cc5a280779f907a') in 0.045001 seconds
+  Import took 0.048987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/lampiao.fbx
+  artifactKey: Guid(aeb9725ad66842b4aacc5db9a9c0539f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/lampiao.fbx using Guid(aeb9725ad66842b4aacc5db9a9c0539f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62c27f831ce168890c093db157978ab') in 0.065220 seconds
+  Import took 0.068454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/perobabranca.fbx
+  artifactKey: Guid(fa56646fdbb541d419960c4759c81837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/perobabranca.fbx using Guid(fa56646fdbb541d419960c4759c81837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7eaa805e572023f985f8feb693cc734') in 0.025119 seconds
+  Import took 0.028371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/_Octoblind/Artes/Modelos/uxicoroa.fbx
+  artifactKey: Guid(7301b641768a54b449187f89c0e66f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Modelos/uxicoroa.fbx using Guid(7301b641768a54b449187f89c0e66f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378a4ee417b5cb00ef88ebc555910558') in 0.019293 seconds
+  Import took 0.022764 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.0 MB.
+System memory in use after: 133.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3009.
+Total: 2.907600 ms (FindLiveObjects: 0.360500 ms CreateObjectMapping: 0.060400 ms MarkObjects: 1.902100 ms  DeleteObjects: 0.583400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 727.708614 seconds.
+  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset
+  artifactKey: Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Ciano) Profile.asset using Guid(4e2c6dfe593ed854eac936fedea49fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a4d46faee21415ee31a77d78af6554') in 0.031251 seconds
+  Import took 0.035152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.917735 seconds.
+  path: Assets/_Octoblind/Materials/Alfonso-Ribiero_Web.jpg
+  artifactKey: Guid(137e1f6e9243dee46a0fa555e73793c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/Alfonso-Ribiero_Web.jpg using Guid(137e1f6e9243dee46a0fa555e73793c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7a7dbb6e4d75805ae5035cf6976dab') in 0.117316 seconds
+  Import took 0.120883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/_Octoblind/Materials/PngItem_162676.png
+  artifactKey: Guid(232a9728556b04743b81e424b29ae7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/PngItem_162676.png using Guid(232a9728556b04743b81e424b29ae7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d5f95724a2161c1e44b3194a1379f2') in 0.017849 seconds
+  Import took 0.021855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/_Octoblind/Materials/NewLayer.terrainlayer
+  artifactKey: Guid(4afbda983f59a72458afc41f0edee26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/NewLayer.terrainlayer using Guid(4afbda983f59a72458afc41f0edee26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c06903efc951ddc8108280512f9fa3') in 0.057157 seconds
+  Import took 0.061706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004964 seconds.
+  path: Assets/_Octoblind/Materials/PngItem_812620.png
+  artifactKey: Guid(b531a5839c6457243a3b54f3dd264d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/PngItem_812620.png using Guid(b531a5839c6457243a3b54f3dd264d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af59f84bf5ae43fe9d8a1a3f38270b0') in 0.018516 seconds
+  Import took 0.024258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/_Octoblind/Materials/New Material 1.mat
+  artifactKey: Guid(82ac941a78cbd2d40a66e6d74ecfd949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/New Material 1.mat using Guid(82ac941a78cbd2d40a66e6d74ecfd949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c92ac115a8ba7804448e26a6c26bd7') in 0.121545 seconds
+  Import took 0.125219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/_Octoblind/Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee2c324e7406c742a3920f05c42750e') in 0.021144 seconds
+  Import took 0.024363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/_Octoblind/Materials/Grass_Texture.jpg
+  artifactKey: Guid(42d0dcf984eaac94ba391e8ee10feb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/Grass_Texture.jpg using Guid(42d0dcf984eaac94ba391e8ee10feb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '821e3eafbd1b55a8c9e8f483d72698bc') in 0.017326 seconds
+  Import took 0.020683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/_Octoblind/Materials/GroundTest.jpg
+  artifactKey: Guid(097cea24b5d55df41b5513389709eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/GroundTest.jpg using Guid(097cea24b5d55df41b5513389709eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896c6bce0d0b0a3d3dd2eb9b3145c4ed') in 0.016683 seconds
+  Import took 0.020046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/_Octoblind/Materials/NewLayer 2.terrainlayer
+  artifactKey: Guid(86227fed02379e3448e821c55740895c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/NewLayer 2.terrainlayer using Guid(86227fed02379e3448e821c55740895c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d20da6fd32f1651897fba748883f119') in 0.015214 seconds
+  Import took 0.019090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/_Octoblind/Materials/NewLayer 1.terrainlayer
+  artifactKey: Guid(ba3af95dd9667c945857ce6a8d1020c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/NewLayer 1.terrainlayer using Guid(ba3af95dd9667c945857ce6a8d1020c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94df4de3d384e99e556c39c04397e0a') in 0.014523 seconds
+  Import took 0.018211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/_Octoblind/Materials/OptimizedTree.prefab
+  artifactKey: Guid(455c6f9933f40034d9188278793e5097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Materials/OptimizedTree.prefab using Guid(455c6f9933f40034d9188278793e5097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8231e125a4950329252cc00e17da09') in 0.010461 seconds
+  Import took 0.014088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.319621 seconds.
+  path: Assets/_Octoblind/Scenes/BuildScenes/MM_RainForest/Global Volume Profile.asset
+  artifactKey: Guid(ef8ce3ca840babc498f3d85368dd62c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Scenes/BuildScenes/MM_RainForest/Global Volume Profile.asset using Guid(ef8ce3ca840babc498f3d85368dd62c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0795e8fcc4d925808ccdd4acd10fec36') in 0.006463 seconds
+  Import took 0.009794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.475544 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/bussola(1).png
+  artifactKey: Guid(88c131b8ef940af4d87c9bdf4384c6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/bussola(1).png using Guid(88c131b8ef940af4d87c9bdf4384c6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c29a5685ac8b5166346b9b316456a50') in 0.020312 seconds
+  Import took 0.023812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/questBUSSOLA.png
+  artifactKey: Guid(be1082397aae2194c9b4967b787929fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/questBUSSOLA.png using Guid(be1082397aae2194c9b4967b787929fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c61036f423d35bdfd4cff768cc45304') in 0.093861 seconds
+  Import took 0.097269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/LogoDark.png
+  artifactKey: Guid(6058324c4131a3c45ae64ee84f4978a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/LogoDark.png using Guid(6058324c4131a3c45ae64ee84f4978a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e8caedff8d8de0227c8133dbe3cea1') in 0.030671 seconds
+  Import took 0.034004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/Splash2.mp4
+  artifactKey: Guid(8caa7df91c00ba54ea99c784329d0e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/Splash2.mp4 using Guid(8caa7df91c00ba54ea99c784329d0e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b75e6edaa151cc2c70d93ba373d00c') in 0.013996 seconds
+  Import took 0.017360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/coord.png
+  artifactKey: Guid(616f49cb6bf2d414eb7779e9ae52881c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/coord.png using Guid(616f49cb6bf2d414eb7779e9ae52881c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84be26f22894bed0ddad097e79d24b5') in 0.016713 seconds
+  Import took 0.019874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/sair.png
+  artifactKey: Guid(340ddba7ac440d446b4800455119c422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/sair.png using Guid(340ddba7ac440d446b4800455119c422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53bd6cf7274f7797ab02e44f1a0eb73') in 0.014504 seconds
+  Import took 0.017668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/bussola.png
+  artifactKey: Guid(2fcf06efb68a64f468d830adc2c24a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/bussola.png using Guid(2fcf06efb68a64f468d830adc2c24a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602df1a696b6424bad3d4a45e7c30635') in 0.014193 seconds
+  Import took 0.017271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/jogar.png
+  artifactKey: Guid(8384938996b4d7542b6341d9f8f133f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/jogar.png using Guid(8384938996b4d7542b6341d9f8f133f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440018f4fd605075861ff7d84daf4973') in 0.014193 seconds
+  Import took 0.017292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/bussola.png
+  artifactKey: Guid(2fcf06efb68a64f468d830adc2c24a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/bussola.png using Guid(2fcf06efb68a64f468d830adc2c24a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602df1a696b6424bad3d4a45e7c30635') in 0.007893 seconds
+  Import took 0.011219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/compassCardinalsPlaceholder.png
+  artifactKey: Guid(d75556682c1e2b54ab3d58b79ea1ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/compassCardinalsPlaceholder.png using Guid(d75556682c1e2b54ab3d58b79ea1ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bfea2fca02885b595fc966d19fff07') in 0.013905 seconds
+  Import took 0.017186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/credits.png
+  artifactKey: Guid(e2f957ab08fd03844afc02054a460424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/credits.png using Guid(e2f957ab08fd03844afc02054a460424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f027c5a8f9774816ad14bcb2cd9e9c86') in 0.016309 seconds
+  Import took 0.019248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/Splash.mp4
+  artifactKey: Guid(e1d2cf7dce5f0004ead77d19b7a4eaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/Splash.mp4 using Guid(e1d2cf7dce5f0004ead77d19b7a4eaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b182a2e3698c641a12b6b495d76b7b') in 0.006422 seconds
+  Import took 0.010168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/coord(1).png
+  artifactKey: Guid(d8525316b090f0d43958f7dc6ec19c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/coord(1).png using Guid(d8525316b090f0d43958f7dc6ec19c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bc51807fd90ef60861d10245f2ff03') in 0.016411 seconds
+  Import took 0.020183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/LogoBrightOcto.png
+  artifactKey: Guid(f7964dcee0d8b4d4ab369565e33d95fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/LogoBrightOcto.png using Guid(f7964dcee0d8b4d4ab369565e33d95fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f99e575a671aae89c50cdd477cdceb2') in 0.013239 seconds
+  Import took 0.016694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/_Octoblind/Artes/Iconografia/LogoBright.png
+  artifactKey: Guid(b495675c225aa354d9a16ba863a0a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Artes/Iconografia/LogoBright.png using Guid(b495675c225aa354d9a16ba863a0a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3812edefdfdfa0ce3d3d67191be5a774') in 0.018298 seconds
+  Import took 0.021536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.832972 seconds.
+  path: Assets/_Octoblind/Prefabs/AudioInstancePlayer.prefab
+  artifactKey: Guid(189a3c407a1e1f943b2d813724d2d1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Prefabs/AudioInstancePlayer.prefab using Guid(189a3c407a1e1f943b2d813724d2d1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5bd69994c778f98a460d7287c5c540') in 0.007114 seconds
+  Import took 0.010418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/_Octoblind/Prefabs/Player.prefab
+  artifactKey: Guid(1298fda94db1b8245a54df0d9362725d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Prefabs/Player.prefab using Guid(1298fda94db1b8245a54df0d9362725d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5643afb459c7243cba188db8340b59') in 0.026277 seconds
+  Import took 0.029172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/_Octoblind/Prefabs/QuestIcon.prefab
+  artifactKey: Guid(4f34c111986034840a0986246936100f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Prefabs/QuestIcon.prefab using Guid(4f34c111986034840a0986246936100f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecaa4e80e6e5b84e70a983dbd127df6') in 0.011038 seconds
+  Import took 0.014050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.564485 seconds.
+  path: Assets/_Octoblind/Sounds/Ambient/473570__rtb45__amazon-jungle-night.wav
+  artifactKey: Guid(6eb915b5f3aeffd4190f2b41b9ba8957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/Ambient/473570__rtb45__amazon-jungle-night.wav using Guid(6eb915b5f3aeffd4190f2b41b9ba8957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552c67606508fca4baa8f5d84a96b92b') in 0.014718 seconds
+  Import took 0.018128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/_Octoblind/Sounds/Ambient/Main.ogg
+  artifactKey: Guid(c6abb73bda7eaab418294de6caa10bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/Ambient/Main.ogg using Guid(c6abb73bda7eaab418294de6caa10bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ce48c9f116870f2c306f4df756b971') in 0.013726 seconds
+  Import took 0.016765 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000176 seconds.
-  path: Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset
-  artifactKey: Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/SampleScene/Volume(Sépia) Profile.asset using Guid(075a8e4b56cb0b046976a123045b0e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bb9f80bfc562f786c5feb286a6ccc9') in 0.011259 seconds
-  Import took 0.016317 seconds .
+  path: Assets/_Octoblind/Sounds/Ambient/473570__rtb45__amazon-jungle-night.wav
+  artifactKey: Guid(6eb915b5f3aeffd4190f2b41b9ba8957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Octoblind/Sounds/Ambient/473570__rtb45__amazon-jungle-night.wav using Guid(6eb915b5f3aeffd4190f2b41b9ba8957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552c67606508fca4baa8f5d84a96b92b') in 0.020295 seconds
+  Import took 0.025208 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 29.629532 seconds.
-  path: Assets/_Octoblind/Prefabs/AudioInstancePlayer.prefab
-  artifactKey: Guid(189a3c407a1e1f943b2d813724d2d1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Prefabs/AudioInstancePlayer.prefab using Guid(189a3c407a1e1f943b2d813724d2d1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd6b639129ebc2a693a06e0be124a7b') in 0.011089 seconds
-  Import took 0.017050 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001281 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2328 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.3 MB.
+System memory in use after: 133.5 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/_Octoblind/Prefabs/Player.prefab
-  artifactKey: Guid(1298fda94db1b8245a54df0d9362725d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Prefabs/Player.prefab using Guid(1298fda94db1b8245a54df0d9362725d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '617030fa0d248532f21f5379e111ab1f') in 0.054789 seconds
-  Import took 0.059653 seconds .
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3069.
+Total: 2.684800 ms (FindLiveObjects: 0.288000 ms CreateObjectMapping: 0.058000 ms MarkObjects: 1.750400 ms  DeleteObjects: 0.587700 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/_Octoblind/Prefabs/QuestIcon.prefab
-  artifactKey: Guid(4f34c111986034840a0986246936100f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Prefabs/QuestIcon.prefab using Guid(4f34c111986034840a0986246936100f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ebd63a08da3275a301eb9ffdad979e') in 0.025262 seconds
-  Import took 0.033901 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.063425 seconds.
-  path: Assets/_Octoblind/Scenes/BuildScenes/MM_RainForest/Global Volume Profile.asset
-  artifactKey: Guid(ef8ce3ca840babc498f3d85368dd62c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Octoblind/Scenes/BuildScenes/MM_RainForest/Global Volume Profile.asset using Guid(ef8ce3ca840babc498f3d85368dd62c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd518a37534e964d8413f2a816dd8011f') in 0.007916 seconds
-  Import took 0.013041 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000323 seconds.
-  path: Assets/Post-Processing/Volumes/Volume(Sépia).prefab
-  artifactKey: Guid(e33e41ea76fd0b245bbb26434bd577fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Post-Processing/Volumes/Volume(Sépia).prefab using Guid(e33e41ea76fd0b245bbb26434bd577fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68df1c3f0438ea4bbef0529b157dd092') in 0.012235 seconds
-  Import took 0.017306 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/Post-Processing/Volumes/Volume(Ciano).prefab
-  artifactKey: Guid(27a02fa77c7edbc40a6e360700361779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Post-Processing/Volumes/Volume(Ciano).prefab using Guid(27a02fa77c7edbc40a6e360700361779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab2cba117ad8e03a3069e5cdfa46f1e') in 0.014989 seconds
-  Import took 0.020534 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
