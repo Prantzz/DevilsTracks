@@ -16,8 +16,8 @@ public class CameraController : MonoBehaviour
     }
     private void FixedUpdate()
     {
-       standPos = new Vector3(Player.transform.position.x, 1.8f, Player.transform.position.z);
-       crouchPos = new Vector3(Player.transform.position.x, 1.4f, Player.transform.position.z);
+       standPos = new Vector3(Player.transform.position.x, Player.transform.position.y + 0.8f, Player.transform.position.z);
+       crouchPos = new Vector3(Player.transform.position.x, Player.transform.position.y + 0.4f, Player.transform.position.z);
     }
     void Update()
     {
