@@ -183,10 +183,12 @@ MonoBehaviour:
   Ambients:
   - {fileID: 8300000, guid: c6abb73bda7eaab418294de6caa10bde, type: 3}
   AudioGroupes:
-  - Name: Birds
+  - Name: Player
     Type: 0
     Sounds:
-    - {fileID: 8300000, guid: 627744d231c01b249968de63795b044c, type: 3}
+    - {fileID: 8300000, guid: c34892865cc452e479f2d67e5c0f5792, type: 3}
+    - {fileID: 8300000, guid: fa76554097723ee4e8af950e0575a8d2, type: 3}
+    - {fileID: 8300000, guid: 53d7630d79e509b4e95ee909076cad3e, type: 3}
 --- !u!1 &587924216
 GameObject:
   m_ObjectHideFlags: 0
